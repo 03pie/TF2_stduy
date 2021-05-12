@@ -10,4 +10,4 @@
 
 + tensorflow2.4.1
 + 将代码放到同一目录下面，运行train.py即可。
-+ 如果keras.datasets包下载较慢可手动下载，放到用户目录下.kreas中。
++ 如果keras.datasets包下载较慢可手动下载，放到用户目录下.keras中。
